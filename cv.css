@@ -55,7 +55,7 @@ body a .fa {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 .container .left-side .porfiletext .imgbox {
-  background-image: url("../img1.jpg");
+  background-image: url("img1.jpg");
   position: relative;
   width: 200px;
   height: 200px;
